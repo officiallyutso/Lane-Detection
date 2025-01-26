@@ -98,11 +98,12 @@ process_video('input_video.mp4', 'output_video.mp4')
 - Does not handle curved lanes optimally
 
 # Output Images
-![output
 
 https://github.com/user-attachments/assets/89383980-80be-4d20-9aad-b0cc0b04ddab
 
-_example](https://github.com/user-attachments/assets/8cc39266-5565-4d77-9d5f-28aab7ae776d)
+Example image:
+
+https://github.com/user-attachments/assets/8cc39266-5565-4d77-9d5f-28aab7ae776d
 
 
 ## Contributing
